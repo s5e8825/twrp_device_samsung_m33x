@@ -28,3 +28,6 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 # TWRP specific build flags
 # TW_DEVICE_VERSION := Samsung Galaxy M33 5G
 TW_FRAMERATE := 120
+
+# Screen
+TW_NO_SCREEN_BLANK := true
